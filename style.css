@@ -1,0 +1,114 @@
+body {
+	margin:0;
+	padding:0;
+	background-image:url(pictures/1.jpg);
+	background-attachment:fixed;
+	background-repeat:repeat;
+}
+#drugi {
+	margin:0;
+	padding:0;
+	background-image:url(pictures/labudovo-jezero-5.jpg);
+	background-attachment:fixed;
+}
+#treci {
+	margin:0;
+	padding:0;
+	background-image:url(pictures/2.jpg);
+	background-attachment:fixed;
+	background-repeat:repeat;
+	font-family: Comic Sans MS, Tahoma, Arial;
+}
+#cetvrti {
+	margin:0;
+	padding:0;
+	background-image:url(pictures/labudovo-jezero-02.jpg);
+	background-attachment:fixed;
+	background-repeat:repeat;
+}
+#prvi {
+	margin:0;
+	padding:0;
+	background-image:url(pictures/liviu-har-labudovo-jezero.jpg);
+	background-attachment:fixed;
+	background-repeat:repeat;
+}
+#wraper {
+	background:#FFFFFF;
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:15px;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+#nav li, a {
+	text-align: center;
+	list-style-type: none;
+	float:left;
+	margin:5px;
+}
+#nav {
+	padding:5px;
+	background:#808080;
+	overflow:hidden;
+}
+#nav ul {
+	margin:0;
+	padding:0;
+}
+#header h1 {
+	margin:15px;
+}
+#footer {
+	background:#C0C0C0;
+	clear:both;
+	padding:5px;
+	overflow:hidden;
+}
+#img {
+	background-image:url(labudovo-jezero-5.jpg);
+	background-attachment:fixed;
+	background-repeat: repeat;
+}
+.istorija {
+	float:left;
+	width:400px:
+}
+.text {
+	float:left;
+	width:450px;
+	margin-left:15px;
+}
+#footer li {
+	text-align: center;
+	float:left;
+	margin:15px;
+}
+#footer ul {
+	margin:0;
+	padding:0;
+}
+#src {
+	float:left;
+	width:400px;
+	margin-top:20px;
+	text-align:center
+}
+#park {
+	float:left;
+	width:500px;
+	text-align:center;
+}
+.pictures {
+	float:left;
+	width:400px:
+}
+.p {
+	float:left;
+	width:500px;
+	margin-left:15px;
+}
+span {
+	background:#E0E0E0;
+}
